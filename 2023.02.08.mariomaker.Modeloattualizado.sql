@@ -6,14 +6,19 @@ DROP DATABASE IF EXISTS mariomaker;
 CREATE DATABASE mariomaker CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 USE mariomaker;
 
--- Criando as tabelas
+-- Criando as tabelas , adicionei mais atribuitos
 CREATE TABLE fases (
-	id_fase INT PRIMARY KEY AUTO_INCREMENT,
-	fase_title VARCHAR(255)
+	id_fase INT PRIMARY KEY,
+    difficulty VARCHAR (255),
+    gameStyle VARCHAR (255),
+    maker VARCHAR (255),
+    fase_title VARCHAR(255),
+    creation TIMESTAMP
 );
 
 CREATE TABLE estilos_de_mapas (
 	id_estilos_de_mapas INT PRIMARY KEY AUTO_INCREMENT,
+    name_style VARCHAR (255),
     nome_fases INT,
     FOREIGN KEY (nome_fases) REFERENCES fases (id_fase)
 );
