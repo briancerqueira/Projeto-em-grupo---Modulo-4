@@ -16,10 +16,12 @@ INSERT INTO recordes VALUES
 ('5','MIKURIN88','2018-01-31 14:56:28.779','5999999'),
 ('6','meleemeister','2018-02-08 02:46:48.052','5999999');
 
+
+
 select * from recordes;
 
 CREATE TABLE dificuldades (
-	id_dificuldades INT PRIMARY KEY AUTO_INCREMENT,
+	id_dificuldades VARCHAR (25) PRIMARY KEY,
     dificuldades_level ENUM ('normal','easy','expert','superExpert'),
     dificuldades_title VARCHAR(255),
     dificuldades_gameStyle VARCHAR(255),
@@ -28,7 +30,25 @@ CREATE TABLE dificuldades (
 ) DEFAULT CHARSET = utf8mb4;
 
 INSERT INTO dificuldades VALUES 
-('1','normal','Bowser is not your enemy it is','marioBros','Mar1oo');
+('079D-0000-0351-17E2','expert', 'Apocalipse 14:12', 'marioBros3', 'NolramImpro'),
+('07CD-0000-030D-EA60','expert', 'Dangerous Ship Fantasy', 'marioBrosU', 'igorsssa'),
+('07F7-0000-030F-A51B','superExpert', 'Pow-Ing (Speedrun) (^o^)', 'marioWorld', 'Wiggle133'),
+('080E-0000-0307-A394','expert', 'desafios radcore', 'marioBros', 'vitorotavio'),
+('082F-0000-0358-A218','normal', 'Goodbye Miiverse...', 'marioBros3', 'CaptainToad4444'),
+('0830-0000-0353-D322','normal', 'Track of the hills', 'marioWorld', 'yasmedice'),
+('0833-0000-0357-690F','easy', 'Hiper-Quiz', 'marioBros3', 'portugueses000'),
+('085F-0000-0364-6DA1','normal', 'Mario and yoshi adventure', 'marioWorld', 'Mgamer762'),
+('0861-0000-0353-6FC4','normal', 'super mario bros 4  1-1', 'marioBrosU', 'gabrielkomljan'),
+('0873-0000-033C-96A6','normal', 'level1 gubrixi', 'marioBrosU', 'marcelodosjogos'),
+('0880-0000-0341-CA17','normal', 'nu sei', 'marioWorld', 'guilherme2007'),
+('08AC-0000-0303-AB1D','easy', 'salve o lucas', 'marioWorld', 'maira78'),
+('08AF-0000-030D-BD5F','normal', 'Crasy Level', 'marioBrosU', 'umbelina'),
+('090E-0000-0316-8159','normal', 'aventura do toud', 'marioBros', 'vicentex3110'),
+('091D-0000-035D-58F2','expert', '2: Bowsers EPIC FIGHT!', 'marioWorld', 'dimitreeey'),
+('0927-0000-0348-8478','superExpert', 'Palmitos Assombrados', 'marioBrosU', 'TicoTecoTaco'),
+('0934-0000-034B-65DE','normal', 'Yoshis Adventure 2: The Madness', 'marioWorld', 'lukengl'),
+('093A-0000-0358-2EA9','normal', 'imaging', 'marioBrosU', 'gugudaemon'),
+('0967-0000-034B-4970','easy', 'the automatic rollecoaster', 'marioWorld', 'dellymaia');
 
 select * from dificuldades;
 
@@ -71,7 +91,6 @@ CREATE TABLE player (
    FOREIGN KEY (id_fases) REFERENCES fases (id_fases),
     FOREIGN KEY (id_dificuldades) REFERENCES dificuldades (id_dificuldades)
 );
-
 
 
 
