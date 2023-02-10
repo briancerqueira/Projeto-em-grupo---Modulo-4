@@ -1,0 +1,3 @@
+ SELECT * FROM estilos_de_mapas;
+/*Quais são os estilos dos jogos dos mapas? */
+SELECT name, região, quantidade FROM estilos_de_mapas
