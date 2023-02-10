@@ -34,10 +34,12 @@ CREATE TABLE criador (
 SELECT * FROM criador;
 
 CREATE TABLE estilos_de_mapas (
-    id_estilos_de_mapas VARCHAR(20) PRIMARY KEY,
-	estilos_de_mapas_title VARCHAR(255),
-    estilo_de_mapas_quantidade INT
+    id_estilos_de_mapas INT PRIMARY KEY,
+	estilos_de_mapas_title ENUM ('marioBrosU','marioBros','marioWorld','marioBros3'),
+    estilo_de_mapas_quantida FLOAT
 )DEFAULT CHARSET = utf8mb4;
+
+SELECT * FROM estilos_de_mapas;
 
 CREATE TABLE paises (
     id_paises VARCHAR (20) PRIMARY KEY,
@@ -45,3 +47,5 @@ CREATE TABLE paises (
     paises_região varchar (2) default 'BR',
     paises_quantidade INT
 )DEFAULT CHARSET = utf8mb4;
+
+
