@@ -51,7 +51,7 @@ PERGUNTAS :
 
 🔹4. Quais as dificuldades dos mapas mais acessadas?
 
-![pergunta4](https://user-images.githubusercontent.com/113534138/218339732-f890a842-10db-4977-a486-ec02ecffbec3.jpg)]
+![pergunta4](https://user-images.githubusercontent.com/113534138/218339732-f890a842-10db-4977-a486-ec02ecffbec3.jpg)
 
 🔹5. Qual os estilos dos jogos dos mapas?
 
