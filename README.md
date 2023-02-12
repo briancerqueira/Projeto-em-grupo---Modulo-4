@@ -2,14 +2,18 @@
 
 ## Resilia / SENAC
 ## Integrantes:
-Ana Beatriz de Castro
-Douglas da Silva
-Matheus Freire
-Alan Nataniel Rodrigues
-Brian dos Santos
-Thiago de Oliveira
+#### Alan Nataniel Rodrigues
+#### Ana Beatriz de Castro
+#### Brian dos Santos
+#### Douglas da Silva
+#### Matheus Freire
+#### Thiago de Oliveira
+
 
 📜O projeto:
 
 O objetivo deste projeto é vizualizar e manipular os dados inseridos em um banco de dados SQL.
+O tema utilizada para o projeto foi Mario Maker.
 
+Slide de Aprensetação:
+(Insira aqui!)
