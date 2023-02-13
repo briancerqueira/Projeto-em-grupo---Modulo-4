@@ -6,12 +6,19 @@
 
 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒏𝒕𝒆𝒔:
 
-𝘼𝙡𝙖𝙣 𝙉𝙖𝙩𝙖𝙣𝙞𝙚𝙡 - https://github.com/alannataniel
-𝑨𝒏𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 𝒅𝒆 𝑪𝒂𝒔𝒕𝒓𝒐 - https://github.com/beatrizprog
-𝑩𝒓𝒊𝒂𝒏 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔 - https://github.com/briancerqueira
-𝑫𝒐𝒖𝒈𝒍𝒂𝒔 𝒅𝒂 𝑺𝒊𝒍𝒗𝒂 - https://github.com/dgsilva16
-𝑴𝒂𝒕𝒉𝒆𝒖𝒔 𝑭𝒓𝒆𝒊𝒓𝒆 - https://github.com/matheuszack
-𝑻𝒉𝒊𝒂𝒈𝒐 𝒅𝒆 𝑶𝒍𝒊𝒗𝒆𝒊𝒓𝒂 - https://github.com/LordTos
+CO-FACILITADOR: 𝑻𝒉𝒊𝒂𝒈𝒐 𝒅𝒆 𝑶𝒍𝒊𝒗𝒆𝒊𝒓𝒂 - https://github.com/LordTos
+
+GESTORA DE CONHECIMENTO: 𝑨𝒏𝒂 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 𝒅𝒆 𝑪𝒂𝒔𝒕𝒓𝒐 - https://github.com/beatrizprog
+ 
+GESTOR DE GENTE: 𝑩𝒓𝒊𝒂𝒏 𝒅𝒐𝒔 𝑺𝒂𝒏𝒕𝒐𝒔 - https://github.com/briancerqueira
+
+COLABORADOR 1: 𝑴𝒂𝒕𝒉𝒆𝒖𝒔 𝑭𝒓𝒆𝒊𝒓𝒆 - https://github.com/matheuszack
+
+COLABORADOR 2: 𝑫𝒐𝒖𝒈𝒍𝒂𝒔 𝒅𝒂 𝑺𝒊𝒍𝒗𝒂 - https://github.com/dgsilva16
+
+COLABORADOR 3: 𝘼𝙡𝙖𝙣 𝙉𝙖𝙩𝙖𝙣𝙞𝙚𝙡 - https://github.com/alannataniel
+
+
 
 
 📜O projeto:
